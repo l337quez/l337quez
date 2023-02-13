@@ -1,8 +1,8 @@
 ### Electronic engineer
 
-https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png
 
-![]((https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png))
+I'm developer in:
+* NestJs
 
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"><img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" style="max-width: 100%;" height="20"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"><img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" style="max-width: 100%;" height="20"></a></code>
