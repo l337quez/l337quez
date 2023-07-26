@@ -5,6 +5,7 @@ I'm developer in:
 * NestJs
 * Angular
 * Python (Selenium, pyside)
+* AWS (EC2, SES, SQS, SNS, Lambda Function)
 
 <p dir="auto">
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png"><img src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/angular/angular.png" style="max-width: 100%;" height="24"></a></code>
