@@ -4,6 +4,7 @@
 I'm developer in:
 * NestJs
 * Angular
+* Django
 * Python (Selenium, pyside)
 * AWS (EC2, SES, SQS, SNS, Lambda Function)
 
