@@ -15,9 +15,8 @@ I'm developer in:
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"><img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" style="max-width: 100%;" height="28"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"><img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" style="max-width: 100%;" height="28"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png"><img src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" style="max-width: 100%;" height="28"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"><img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" style="max-width: 100%;" height="24"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.djangoproject.com/en/5.0/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" style="max-width: 100%;" height="24"></a></code>
-https://raw.githubusercontent.com/github/explore/main/topics/django/django.png
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"><img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" style="max-width: 100%;" height="28"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.djangoproject.com/en/5.0/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" style="max-width: 100%;" height="28"></a></code>
   
 </p>
 
